@@ -7,7 +7,7 @@
 
 ## How the program works
 
-- Run the program [main](main.py)
+- Run the program [main](functions/main.py)
 - Enter the username/player you are looking for
 - Program will get, filter and display the required stats
 
