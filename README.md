@@ -7,7 +7,7 @@
 
 ## How the program works
 
-- Run the program [functions/main](functions/main.py)
+- Run the program [main](functions/main.py)
 - Enter the username/player you are looking for
 - Program will get, filter and display the required stats
 
@@ -31,4 +31,4 @@ In Progress...
 
 - [testGetData](tests/test_get_data.py)
 - [testGetGameMode](tests/test_get_game_mode.py)
-- [testRatio](test/test_ratio.py)
+- [testRatio](tests/test_ratio.py)
