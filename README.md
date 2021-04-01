@@ -1,9 +1,9 @@
 # Group 4 Project
 ## Introduction
 
-- The purpose of this is to pull player information from the Hypixel API, which stores Minecraft (an online game) Player Data.
-- The User will filter the data using input from the terminal filtering on name data and game mode type.
-- This application will return kills, deaths, wins and kill/death ratio for the selected player and game mode.
+- The purpose of this is to pull player information from the **Hypixel API**, which stores Minecraft (an online game) **Player Data**.
+- The user will filter the data using input from the terminal filtering on the entered **username and game mode**. The program can also import existing Player Data that is saved in a pre-defined .json file instead of typing in a Player's username.
+- This program will return **kills, deaths, wins and the kill/death ratio** for the selected player and game mode.
 - Kill/Death ratio will be calculated by a function which utilises the data from API called 'kills' and 'deaths'.
 
 ## How the program works
