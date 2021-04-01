@@ -1,7 +1,8 @@
 from functions import displayData, getData, getGameMode, gameModeStatsDict
 
-allPlayerData = getData.getData()
-selectedGame = getGameMode.getGameMode()
+if __name__ == "__main__":
+    allPlayerData = getData.getData()
+    selectedGame = getGameMode.getGameMode()
 
-displayData.displayData(allPlayerData, selectedGame, gameModeStatsDict.gamemodeStats)
+    displayData.displayData(allPlayerData, selectedGame, gameModeStatsDict.gamemodeStats)
 

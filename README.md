@@ -8,8 +8,8 @@
 ## How the program works
 
 - Run the program [main](functions/main.py)
-- Enter the username/player you are looking for
-- Program will get, filter and display the required stats
+- Enter the username/player you are looking for (or use the existing JSON file)
+- Program will get, filter and display the required player stats
 
 ## Useful information
 
@@ -19,7 +19,7 @@
 
 ## Architecture
 
-In Progress...
+- [Program Architecture](docs/architecture.md)
 
 ## Well refactored code
 
